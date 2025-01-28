@@ -11,7 +11,8 @@ Es una aplicación que permite a los usuarios ingresar nombres de amigos en una 
 
 <ul>
 <li>✅El usuario deberá agregar nombres mediante un campo de texto y un botón "Añadir".</li>
-![Image](https://github.com/user-attachments/assets/75dffd17-86d9-4fd4-a860-8dba22ab88bd)
+![Image](https://github.com/user-attachments/assets/3e19c5fe-5f78-4917-be2c-b369ec8cc897)
+  
 <li>✅Los nombres ingresados se mostrarán en una lista visible en la página.</li>
 <li>✅Al finalizar presionar el botón "Sortear Amigo".</li>
 <li>✅Luego este seleccionará uno de los nombres de forma aleatoria, mostrando asi el Amigo secreto en pantalla.</li>
