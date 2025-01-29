@@ -2,6 +2,8 @@
 
 <h3>📒 Curso: Practicando Lógica de Programación: Challenge Amigo secreto</h3>
 
+![1](https://github.com/user-attachments/assets/ce50df64-b661-4069-a42a-69ad032a24ee)
+
 <h2>📍Descripcion de la aplicación</h2>
 Es una aplicación que permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
@@ -14,9 +16,13 @@ Es una aplicación que permite a los usuarios ingresar nombres de amigos en una 
 <h2>📌Instrucciones:</h2>
 <ul>
 <li>✅El usuario deberá agregar nombres mediante un campo de texto y un botón "Añadir".</li>
+
 <li>✅Los nombres ingresados se mostrarán en una lista visible en la página.</li>
+
 <li>✅Al finalizar presionar el botón "Sortear Amigo".</li>
+
 <li>✅Luego este seleccionará uno de los nombres de forma aleatoria, mostrando asi el Amigo secreto en pantalla.</li>
+
 </ul>
 
 <h2>⚙️Requisitos:</h2>
