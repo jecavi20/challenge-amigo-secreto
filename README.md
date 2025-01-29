@@ -1,7 +1,7 @@
 <h1>Challenge Amigo Secreto Alura 💻</h1>
 
 <h3>📒 Curso: Practicando Lógica de Programación: Challenge Amigo secreto</h3>
-
+![Image](https://github.com/user-attachments/assets/2db32ef2-255b-4136-b668-f3c7107b44e4)
 
 <h2>📍Descripcion de la aplicación</h2>
 Es una aplicación que permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
