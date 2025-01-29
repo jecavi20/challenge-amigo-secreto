@@ -1,5 +1,5 @@
 <h1>Challenge Amigo Secreto Alura 💻</h1>
-
+![Image](https://github.com/user-attachments/assets/6e7680b2-01e2-40d6-86e7-3357413ae696.jpg)
 
 <h3>📒 Curso: Practicando Lógica de Programación: Challenge Amigo secreto</h3>
 
