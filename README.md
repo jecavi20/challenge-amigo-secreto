@@ -9,7 +9,7 @@ Es una aplicación que permite a los usuarios ingresar nombres de amigos en una 
 
 ## 📍 Probar la aplicacion
 
-🔗 <a href='https://jecavi20.github.io/challenge-amigo-secreto/' target="_blank" >Link de la aplicación </a>
+🔗 https://jecavi20.github.io/challenge-amigo-secreto/
 
 <h2>📌Funciones:</h2>
 <li>✅Agregar nombres: Los usuarios escribirán un nombre en el campo de texto y se agrega a una lista al hacer clic en "Añadir".</li>
