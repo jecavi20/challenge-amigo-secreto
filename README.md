@@ -7,6 +7,10 @@
 <h2>📍Descripcion de la aplicación</h2>
 Es una aplicación que permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
+## 📍 Probar la aplicacion
+
+🔗 <a href='https://jecavi20.github.io/challenge-amigo-secreto/' target='_blank'>Link de la aplicación </a>
+
 <h2>📌Funciones:</h2>
 <li>✅Agregar nombres: Los usuarios escribirán un nombre en el campo de texto y se agrega a una lista al hacer clic en "Añadir".</li>
 <li>✅Validar entrada: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.</li>
